@@ -20,7 +20,7 @@
   },
   "include": [
     "src"
-  ],
+, "generated/prisma"  ],
   "exclude": [
     "node_modules",
     "build",
